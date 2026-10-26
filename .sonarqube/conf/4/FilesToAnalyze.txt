@@ -1,0 +1,9 @@
+﻿C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Runtime\InternalBridge\UIDocumentRootElementBridge.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Runtime\InternalBridge\VisualElementExtensionsBridge.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Runtime\InternalBridge\ColorPickerExtensionsBridge.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Runtime\InternalBridge\PointerMoveEventExtensionsBridge.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Runtime\InternalBridge\PanelExtensionsBridge.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Runtime\InternalBridge\FocusControllerExtensionsBridge.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Runtime\InternalBridge\ValueAnimationExtensionsBridge.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Runtime\InternalBridge\AssemblyInfo.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Runtime\InternalBridge\Unity.AppUI.InternalAPIBridge.asmdef

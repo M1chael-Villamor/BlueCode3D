@@ -1,0 +1,9 @@
+x
+mC:\Users\Acer\BlueCode3D\Temp\obj\Unity.AI.Navigation.Updater\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8É
+zC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\NavMeshUpdaterUtility.csutf-8Ö
+|C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\NavigationUpdaterEditor.csutf-8á
+~C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\OffMeshLinkUpdaterUtility.csutf-8z
+qC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\AssemblyInfo.csutf-8Ç
+yC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\OffMeshLinkConverter.csutf-8ã
+ÅC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\NavigationConverterContainer.csutf-8É
+zC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\NavMeshSceneConverter.csutf-8

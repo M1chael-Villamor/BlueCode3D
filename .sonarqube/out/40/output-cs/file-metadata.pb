@@ -1,0 +1,13 @@
+ä
+C:\Users\Acer\BlueCode3D\Temp\obj\Unity.VisualScripting.SettingsProvider.Editor\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8©
+üC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\ProjectSettings\ScriptReferenceResolverSettings.csutf-8ì
+âC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\EditorPreferencesProvider.csutf-8û
+îC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\ProjectSettings\CoreProviderSettings.csutf-8ë
+áC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\ProjectSettingsProvider.csutf-8ù
+ìC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\ProjectSettings\TypeOptionsSettings.csutf-8°
+óC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\ProjectSettings\AssemblyOptionsSettings.csutf-8®
+ûC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\ProjectSettings\CustomPropertyProviderSettings.csutf-8®
+ûC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\ProjectSettings\LinkerPropertyProviderSettings.csutf-8ò
+éC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\ProjectSettings\BackupSettings.csutf-8ó
+çC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\EditorPreferencesProviderView.csutf-8ï
+ãC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.visualscripting@4edfcc09512f\Editor\SettingsProvider\ProjectSettingsProviderView.csutf-8

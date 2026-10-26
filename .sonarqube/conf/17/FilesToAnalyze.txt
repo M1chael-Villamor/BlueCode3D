@@ -1,0 +1,9 @@
+﻿C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerMarker3Params.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerCategory.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerUtility.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerMarkerExtensions.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerCounterValue.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerMarker2Params.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerMarker1Param.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerCounter.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\Unity.Profiling.Core.asmdef

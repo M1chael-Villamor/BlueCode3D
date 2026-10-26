@@ -1,0 +1,1 @@
+QREC:\Users\Acer\BlueCode3D\Unity.InferenceEngine.Microsoft.Msagl.csprojòCSharp9

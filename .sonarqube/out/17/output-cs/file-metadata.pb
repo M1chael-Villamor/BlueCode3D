@@ -1,0 +1,10 @@
+q
+fC:\Users\Acer\BlueCode3D\Temp\obj\Unity.Profiling.Core\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8w
+nC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerCounter.csutf-8|
+sC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerMarker1Param.csutf-8}
+tC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerMarker2Params.csutf-8|
+sC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerCounterValue.csutf-8x
+oC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerCategory.csutf-8€
+wC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerMarkerExtensions.csutf-8w
+nC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerUtility.csutf-8}
+tC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.profiling.core@8a49f7027d06\Runtime\ProfilerMarker3Params.csutf-8

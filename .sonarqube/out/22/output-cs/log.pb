@@ -1,0 +1,1 @@
+Roslyn version: 5.9.0.0Language version: CSharp9!Concurrent execution: enabledèäFile 'C:\Users\Acer\BlueCode3D\Temp\obj\Unity.Pipeline.Editor\.NETStandard,Version=v2.1.AssemblyAttributes.cs' was recognized as generated

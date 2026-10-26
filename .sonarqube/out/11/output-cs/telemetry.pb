@@ -1,0 +1,1 @@
+>R2C:\Users\Acer\BlueCode3D\Unity.Rider.Editor.csprojòCSharp9

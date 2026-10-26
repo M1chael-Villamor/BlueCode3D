@@ -1,0 +1,5 @@
+﻿<Project>
+  <PropertyGroup Condition="'$(MSBuildProjectName)' == 'Assembly-CSharp'">
+    <SonarQubeTestProject>false</SonarQubeTestProject>
+  </PropertyGroup>
+</Project>

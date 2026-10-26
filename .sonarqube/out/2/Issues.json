@@ -1,0 +1,1153 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "5.9.0.0",
+        "fileVersion": "5.9.0-1.26423.113 (e34a38d2ae1fc26406a317517196e55c68ff83ab)",
+        "semanticVersion": "5.9.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'BaseVerticalCollectionView.onSelectionChange' está obsoleto: 'onSelectionChange is deprecated, use selectionChanged instead'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Views/BranchExplorer/Options/BranchExplorerOptionsWindow.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 17,
+                  "endLine": 83,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'BaseVerticalCollectionView.onSelectionChange' está obsoleto: 'onSelectionChange is deprecated, use selectionChanged instead'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Views/BranchExplorer/Options/BranchExplorerOptionsWindow.cs",
+                "region": {
+                  "startLine": 153,
+                  "startColumn": 13,
+                  "endLine": 153,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0649",
+          "level": "warning",
+          "message": "El campo 'PathFigure._segmentsDisposable' nunca se asigna y siempre tendrá el valor predeterminado null",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/CodeEditor/Platform/PathFigure.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 30,
+                  "endLine": 40,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS0649",
+          "level": "warning",
+          "message": "El campo 'TextView._defaultBaseline' nunca se asigna y siempre tendrá el valor predeterminado 0",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/CodeEditor/Rendering/TextView.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 23,
+                  "endLine": 32,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS0067",
+          "level": "warning",
+          "message": "El evento 'PlasticPlugin.OnNotificationUpdated' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/_Deprecated/PlasticPlugin.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 36,
+                  "endLine": 16,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0649",
+          "level": "warning",
+          "message": "El campo 'PathFigure._segmentsPropertiesDisposable' nunca se asigna y siempre tendrá el valor predeterminado null",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/CodeEditor/Platform/PathFigure.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 30,
+                  "endLine": 42,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS0649",
+          "level": "warning",
+          "message": "El campo 'BranchExplorerViewer.mDebugRealizedShapes' nunca se asigna y siempre tendrá el valor predeterminado false",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Views/BranchExplorer/BranchExplorerViewer.cs",
+                "region": {
+                  "startLine": 728,
+                  "startColumn": 14,
+                  "endLine": 728,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/UVCSPlugin.cs",
+                "region": {
+                  "startLine": 260,
+                  "startColumn": 13,
+                  "endLine": 260,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/UVCSPlugin.cs",
+                "region": {
+                  "startLine": 567,
+                  "startColumn": 17,
+                  "endLine": 567,
+                  "endColumn": 76
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/ViewSwitcher.cs",
+                "region": {
+                  "startLine": 236,
+                  "startColumn": 57,
+                  "endLine": 236,
+                  "endColumn": 111
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/ViewSwitcher.cs",
+                "region": {
+                  "startLine": 1392,
+                  "startColumn": 28,
+                  "endLine": 1392,
+                  "endColumn": 82
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Hub/Operations/CreateWorkspace.cs",
+                "region": {
+                  "startLine": 105,
+                  "startColumn": 25,
+                  "endLine": 106,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0017",
+          "level": "note",
+          "message": "'SetPixels' is slower than SetPixels32.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/UI/Avatar/AvatarGenerator.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 20,
+                  "endLine": 102,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0017",
+          "level": "note",
+          "message": "'SetPixels' is slower than SetPixels32.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/UI/Avatar/AvatarGenerator.cs",
+                "region": {
+                  "startLine": 148,
+                  "startColumn": 20,
+                  "endLine": 148,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/UI/Avatar/GetAvatar.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 17,
+                  "endLine": 24,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Api/UnityVersionControlUiApi.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 17,
+                  "endLine": 48,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Api/UnityVersionControlUiApi.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 45,
+                  "endLine": 70,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Api/UnityVersionControlUiApi.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 25,
+                  "endLine": 78,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Api/UnityVersionControlUiApi.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 45,
+                  "endLine": 89,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Api/UnityVersionControlUiApi.cs",
+                "region": {
+                  "startLine": 138,
+                  "startColumn": 45,
+                  "endLine": 138,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Api/UnityVersionControlUiApi.cs",
+                "region": {
+                  "startLine": 150,
+                  "startColumn": 45,
+                  "endLine": 150,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Api/UnityVersionControlUiApi.cs",
+                "region": {
+                  "startLine": 160,
+                  "startColumn": 45,
+                  "endLine": 160,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Api/UnityVersionControlUiApi.cs",
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 45,
+                  "endLine": 170,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Api/UnityVersionControlUiApi.cs",
+                "region": {
+                  "startLine": 195,
+                  "startColumn": 45,
+                  "endLine": 195,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Api/UnityVersionControlUiApi.cs",
+                "region": {
+                  "startLine": 209,
+                  "startColumn": 25,
+                  "endLine": 209,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Views/Welcome/WelcomeView.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 13,
+                  "endLine": 79,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Views/Welcome/WelcomeView.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 13,
+                  "endLine": 93,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Views/CreateWorkspace/CreateWorkspaceView.cs",
+                "region": {
+                  "startLine": 288,
+                  "startColumn": 13,
+                  "endLine": 288,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/AssetDiffControl.cs",
+                "region": {
+                  "startLine": 175,
+                  "startColumn": 38,
+                  "endLine": 175,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/ObjectDiff.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 38,
+                  "endLine": 64,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/ObjectDiff.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 37,
+                  "endLine": 72,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/ObjectDiff.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 37,
+                  "endLine": 79,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/ObjectDiff.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 38,
+                  "endLine": 103,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/ObjectDiff.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 21,
+                  "endLine": 115,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/ObjectDiff.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 38,
+                  "endLine": 109,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/ObjectDiff.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 38,
+                  "endLine": 120,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Common/ObjectIconResolver.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 34,
+                  "endLine": 23,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/UnityObject/UnityObjectDiffs.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 22,
+                  "endLine": 74,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/UnityObject/ObjectDiffGrouping.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 32,
+                  "endLine": 26,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/UnityObject/ObjectDiffGrouping.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 36,
+                  "endLine": 51,
+                  "endColumn": 86
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/UnityObject/ObjectDiffGrouping.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 36,
+                  "endLine": 52,
+                  "endColumn": 86
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Diff/Asset/Diff/UnityObject/ObjectDiffGrouping.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 30,
+                  "endLine": 78,
+                  "endColumn": 82
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Headless/HeadlessWorkspaceWindow.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 18,
+                  "endLine": 83,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/SwitchUVCSPlugin.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 13,
+                  "endLine": 48,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Inspector/Properties/PropertiesViewer.cs",
+                "region": {
+                  "startLine": 149,
+                  "startColumn": 33,
+                  "endLine": 149,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/CloudDrive/Welcome/WelcomeView.cs",
+                "region": {
+                  "startLine": 123,
+                  "startColumn": 13,
+                  "endLine": 123,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Settings/OpenUVCSProjectSettings.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 13,
+                  "endLine": 15,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Settings/OpenUVCSProjectSettings.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 13,
+                  "endLine": 20,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Settings/OpenUVCSProjectSettings.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 13,
+                  "endLine": 25,
+                  "endColumn": 78
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Editor/Settings/OpenUVCSProjectSettings.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 13,
+                  "endLine": 30,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0067": {
+          "id": "CS0067",
+          "shortDescription": "Nunca se usa el evento",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0067)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS0618": {
+          "id": "CS0618",
+          "shortDescription": "El tipo o el miembro están obsoletos",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS0649": {
+          "id": "CS0649",
+          "shortDescription": "El campo nunca se asigna y siempre tendrá su valor predeterminado",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0649)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "UNT0007": {
+          "id": "UNT0007",
+          "shortDescription": "Null coalescing on Unity objects",
+          "fullDescription": "Unity overrides the null comparison operator for Unity objects, which is incompatible with null coalescing.",
+          "defaultLevel": "note",
+          "helpUri": "https://github.com/microsoft/Microsoft.Unity.Analyzers/blob/main/doc/UNT0007.md",
+          "properties": {
+            "category": "Correctness",
+            "isEnabledByDefault": true
+          }
+        },
+        "UNT0008": {
+          "id": "UNT0008",
+          "shortDescription": "Null propagation on Unity objects",
+          "fullDescription": "Unity overrides the null comparison operator for Unity objects, which is incompatible with null propagation.",
+          "defaultLevel": "note",
+          "helpUri": "https://github.com/microsoft/Microsoft.Unity.Analyzers/blob/main/doc/UNT0008.md",
+          "properties": {
+            "category": "Correctness",
+            "isEnabledByDefault": true
+          }
+        },
+        "UNT0017": {
+          "id": "UNT0017",
+          "shortDescription": "SetPixels invocation is slow",
+          "fullDescription": "Compared to SetPixels, SetPixels32 is much faster and uses less memory.",
+          "defaultLevel": "note",
+          "helpUri": "https://github.com/microsoft/Microsoft.Unity.Analyzers/blob/main/doc/UNT0017.md",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true
+          }
+        }
+      }
+    }
+  ]
+}

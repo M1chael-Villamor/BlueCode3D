@@ -1,0 +1,1 @@
+Roslyn version: 5.9.0.0Language version: CSharp9!Concurrent execution: enabledäÖFile 'C:\Users\Acer\BlueCode3D\Temp\obj\Unity.AppUI.MVVM\.NETStandard,Version=v2.1.AssemblyAttributes.cs' was recognized as generated

@@ -1,0 +1,14 @@
+﻿C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Searcher\SearcherDatabaseBase.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Searcher\SearcherAdapter.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Searcher\SearcherWindow.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Searcher\SearcherDatabase.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Searcher\Searcher.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Searcher\SearcherTreeUtility.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Searcher\SearcherHighlighter.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\AssemblyInfo.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Searcher\SearcherItem.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Searcher\SearcherControl.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Unity.Searcher.Editor.asmdef
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Resources\SearcherItem.uxml
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Resources\SearcherWindow.uxml
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.searcher@a463122f2c00\Editor\Resources\Searcher.uss

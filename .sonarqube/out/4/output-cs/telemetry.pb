@@ -1,0 +1,1 @@
+IR=C:\Users\Acer\BlueCode3D\Unity.AppUI.InternalAPIBridge.csprojòCSharp9

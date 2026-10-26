@@ -1,0 +1,33 @@
+﻿C:\Users\Acer\BlueCode3D\Assets\Scripts\AuthUI.cs
+C:\Users\Acer\BlueCode3D\Assets\TutorialInfo\Readme.cs
+C:\Users\Acer\BlueCode3D\Assets\Scripts\UserData.cs
+C:\Users\Acer\BlueCode3D\Assets\Scripts\AuthManager.cs
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMPro.cginc
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+C:\Users\Acer\BlueCode3D\Assets\TutorialInfo\StyleSheets\ReadmeEditor.uss
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF SpaceWarp.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+C:\Users\Acer\BlueCode3D\Assets\TutorialInfo\StyleSheets\ReadmeEditorLight.uss
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SpaceWarp.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF SSD SpaceWarp.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+C:\Users\Acer\BlueCode3D\Assets\TutorialInfo\StyleSheets\ReadmeEditorDark.uss
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD SpaceWarp.shader
+C:\Users\Acer\BlueCode3D\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader

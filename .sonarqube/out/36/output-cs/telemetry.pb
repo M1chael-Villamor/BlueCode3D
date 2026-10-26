@@ -1,0 +1,1 @@
+HR<C:\Users\Acer\BlueCode3D\Unity.InferenceEngine.Editor.csprojòCSharp9

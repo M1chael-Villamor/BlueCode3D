@@ -1,0 +1,3 @@
+﻿C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194\InputSystem\Editor\Plugins\InputForUI\InputActionAssetVerifier.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194\InputSystem\Editor\Plugins\InputForUI\AssemblyInfo.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194\InputSystem\Editor\Plugins\InputForUI\InputSystemForUI.Editor.asmdef

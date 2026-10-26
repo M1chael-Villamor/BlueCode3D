@@ -1,0 +1,1017 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "5.9.0.0",
+        "fileVersion": "5.9.0-1.26423.113 (e34a38d2ae1fc26406a317517196e55c68ff83ab)",
+        "semanticVersion": "5.9.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 268,
+                  "startColumn": 21,
+                  "endLine": 268,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 282,
+                  "startColumn": 69,
+                  "endLine": 282,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 317,
+                  "startColumn": 62,
+                  "endLine": 317,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 350,
+                  "startColumn": 32,
+                  "endLine": 350,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 366,
+                  "startColumn": 24,
+                  "endLine": 366,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 399,
+                  "startColumn": 33,
+                  "endLine": 399,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 428,
+                  "startColumn": 70,
+                  "endLine": 428,
+                  "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 459,
+                  "startColumn": 24,
+                  "endLine": 459,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 268,
+                  "startColumn": 21,
+                  "endLine": 268,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 282,
+                  "startColumn": 69,
+                  "endLine": 282,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 317,
+                  "startColumn": 62,
+                  "endLine": 317,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 350,
+                  "startColumn": 32,
+                  "endLine": 350,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 366,
+                  "startColumn": 24,
+                  "endLine": 366,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 399,
+                  "startColumn": 33,
+                  "endLine": 399,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 428,
+                  "startColumn": 70,
+                  "endLine": 428,
+                  "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 459,
+                  "startColumn": 24,
+                  "endLine": 459,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 52,
+                  "endLine": 35,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 64,
+                  "endLine": 43,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 90,
+                  "endLine": 60,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'EditorSceneManager.loadedSceneCount' está obsoleto: 'EditorSceneManager.loadedSceneCount has been deprecated. Please use SceneManager.loadedSceneCount (UnityUpgradable) -> [UnityEngine] UnityEngine.SceneManagement.SceneManager.loadedSceneCount'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 17,
+                  "endLine": 82,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 96,
+                  "startColumn": 59,
+                  "endLine": 96,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 166,
+                  "startColumn": 71,
+                  "endLine": 166,
+                  "endColumn": 82
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 182,
+                  "startColumn": 83,
+                  "endLine": 182,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NavMeshBuilder' está obsoleto: 'UnityEditor NavMeshBuilder has been deprecated. Use UnityEngine.AI.NavMeshBuilder instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/NavMeshUpdaterUtility.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 54,
+                  "endLine": 29,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 243,
+                  "startColumn": 56,
+                  "endLine": 243,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'StaticEditorFlags.NavigationStatic' está obsoleto: 'Enum member StaticEditorFlags.NavigationStatic has been deprecated. The precise selection of the objects is now done using NavMeshBuilder.CollectSources() and NavMeshBuildMarkup.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/NavMeshUpdaterUtility.cs",
+                "region": {
+                  "startLine": 111,
+                  "startColumn": 32,
+                  "endLine": 111,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'GameObjectUtility.GetNavMeshArea(GameObject)' está obsoleto: 'GetNavMeshArea has been deprecated. To relate a GameObject to an area type and retrieve their relation later, create a NavMeshBuildMarkup and pass it into UnityEngine.AI.NavMeshBuilder.CollectSources().'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/NavMeshUpdaterUtility.cs",
+                "region": {
+                  "startLine": 114,
+                  "startColumn": 33,
+                  "endLine": 114,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'StaticEditorFlags.OffMeshLinkGeneration' está obsoleto: 'Enum member StaticEditorFlags.OffMeshLinkGeneration has been deprecated. You can now use NavMeshBuilder.CollectSources() and NavMeshBuildMarkup to nominate the objects that will generate Off-Mesh Links.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/NavMeshUpdaterUtility.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 36,
+                  "endLine": 118,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'StaticEditorFlags.NavigationStatic' está obsoleto: 'Enum member StaticEditorFlags.NavigationStatic has been deprecated. The precise selection of the objects is now done using NavMeshBuilder.CollectSources() and NavMeshBuildMarkup.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/NavMeshUpdaterUtility.cs",
+                "region": {
+                  "startLine": 124,
+                  "startColumn": 33,
+                  "endLine": 124,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 270,
+                  "startColumn": 62,
+                  "endLine": 270,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 271,
+                  "startColumn": 41,
+                  "endLine": 271,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink.activated' está obsoleto: 'activated has been deprecated together with the class. Declare the object as NavMeshLink and use activated as before.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 352,
+                  "startColumn": 37,
+                  "endLine": 352,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink.autoUpdatePositions' está obsoleto: 'autoUpdatePositions has been deprecated together with the class. Declare the object as NavMeshLink and use autoUpdate instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 353,
+                  "startColumn": 38,
+                  "endLine": 353,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink.biDirectional' está obsoleto: 'biDirectional has been deprecated together with the class. Declare the object as NavMeshLink and use bidirectional instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 354,
+                  "startColumn": 41,
+                  "endLine": 354,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink.costOverride' está obsoleto: 'costOverride has been deprecated together with the class. Declare the object as NavMeshLink and use costModifier instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 355,
+                  "startColumn": 40,
+                  "endLine": 355,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink.startTransform' está obsoleto: 'startTransform has been deprecated together with the class. Declare the object as NavMeshLink and use startTransform as before.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 356,
+                  "startColumn": 42,
+                  "endLine": 356,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink.endTransform' está obsoleto: 'endTransform has been deprecated together with the class. Declare the object as NavMeshLink and use endTransform as before.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 357,
+                  "startColumn": 40,
+                  "endLine": 357,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 370,
+                  "startColumn": 72,
+                  "endLine": 370,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 409,
+                  "startColumn": 60,
+                  "endLine": 409,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 434,
+                  "startColumn": 75,
+                  "endLine": 434,
+                  "endColumn": 86
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'OffMeshLink' está obsoleto: 'The OffMeshLink component is no longer supported and will be removed. Use NavMeshLink instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/Editor/Updater/OffMeshLinkUpdaterUtility.cs",
+                "region": {
+                  "startLine": 467,
+                  "startColumn": 48,
+                  "endLine": 467,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        }
+      ],
+      "rules": {
+        "CS0618": {
+          "id": "CS0618",
+          "shortDescription": "El tipo o el miembro están obsoletos",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

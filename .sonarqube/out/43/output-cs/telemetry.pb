@@ -1,0 +1,1 @@
+BR6C:\Users\Acer\BlueCode3D\Assembly-CSharp-Editor.csprojòCSharp9

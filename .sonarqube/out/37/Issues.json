@@ -1,0 +1,439 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "5.9.0.0",
+        "fileVersion": "5.9.0-1.26423.113 (e34a38d2ae1fc26406a317517196e55c68ff83ab)",
+        "semanticVersion": "5.9.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitOption.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 132,
+                  "endLine": 10,
+                  "endColumn": 144
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitWidget.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 57,
+                  "endLine": 6,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitWidget.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 20,
+                  "endLine": 5,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitWidget.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 54,
+                  "endLine": 8,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitDescriptor.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 24,
+                  "endLine": 5,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitDescriptor.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 110,
+                  "endLine": 6,
+                  "endColumn": 122
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitOption.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 132,
+                  "endLine": 10,
+                  "endColumn": 144
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitWidget.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 57,
+                  "endLine": 6,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitWidget.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 20,
+                  "endLine": 5,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitWidget.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 54,
+                  "endLine": 8,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitDescriptor.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 24,
+                  "endLine": 5,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableUnit' está obsoleto: 'Use the new unified variable nodes instead.'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/Variables/Obsolete/VariableUnitDescriptor.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 110,
+                  "endLine": 6,
+                  "endColumn": 122
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'e' se ha declarado pero nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Plugin/Migrations/Migration_1_5_1_to_1_5_2.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 30,
+                  "endLine": 24,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'e' se ha declarado pero nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Plugin/Migrations/Migration_Asset_to_Package.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 30,
+                  "endLine": 27,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'e' se ha declarado pero nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Plugin/Migrations/Migration_Asset_to_Package.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 30,
+                  "endLine": 41,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Flow/Framework/InputActionInspector.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 36,
+                  "endLine": 50,
+                  "endColumn": 109
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0168": {
+          "id": "CS0168",
+          "shortDescription": "La variable está declarada pero nunca se usa",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0168)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS0618": {
+          "id": "CS0618",
+          "shortDescription": "El tipo o el miembro están obsoletos",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "UNT0008": {
+          "id": "UNT0008",
+          "shortDescription": "Null propagation on Unity objects",
+          "fullDescription": "Unity overrides the null comparison operator for Unity objects, which is incompatible with null propagation.",
+          "defaultLevel": "note",
+          "helpUri": "https://github.com/microsoft/Microsoft.Unity.Analyzers/blob/main/doc/UNT0008.md",
+          "properties": {
+            "category": "Correctness",
+            "isEnabledByDefault": true
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "5.9.0.0",
+        "fileVersion": "5.9.0-1.26423.113 (e34a38d2ae1fc26406a317517196e55c68ff83ab)",
+        "semanticVersion": "5.9.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'VariableKindAttribute' está obsoleto: 'Set VariableKind via VariableDeclarations.Kind'",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Variables/VariableDeclarationsInspector.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 42,
+                  "endLine": 18,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'e' se ha declarado pero nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Plugin/Migrations/Migration_1_6_to_1_7.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 30,
+                  "endLine": 44,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'e' se ha declarado pero nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Plugin/Migrations/Migration_Asset_to_Package.cs",
+                "region": {
+                  "startLine": 203,
+                  "startColumn": 30,
+                  "endLine": 203,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'e' se ha declarado pero nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Plugin/Migrations/Migration_Asset_to_Package.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 30,
+                  "endLine": 217,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'e' se ha declarado pero nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Plugin/Migrations/Migration_Asset_to_Package.cs",
+                "region": {
+                  "startLine": 231,
+                  "startColumn": 30,
+                  "endLine": 231,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'e' se ha declarado pero nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Plugin/Migrations/Migration_1_5_1_to_1_5_2.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 30,
+                  "endLine": 59,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'e' se ha declarado pero nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Plugin/Migrations/Migration_1_5_1_to_1_5_2.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 30,
+                  "endLine": 73,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0649",
+          "level": "warning",
+          "message": "El campo 'SQLiteConnection._preserveDuringLinkMagic' nunca se asigna y siempre tendrá el valor predeterminado false",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Dependencies/SQLite/SQLite.cs",
+                "region": {
+                  "startLine": 291,
+                  "startColumn": 21,
+                  "endLine": 291,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/GraphWindow.cs",
+                "region": {
+                  "startLine": 233,
+                  "startColumn": 20,
+                  "endLine": 233,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/GraphWindow.cs",
+                "region": {
+                  "startLine": 245,
+                  "startColumn": 54,
+                  "endLine": 245,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/GraphWindow.cs",
+                "region": {
+                  "startLine": 166,
+                  "startColumn": 46,
+                  "endLine": 166,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/GraphWindow.cs",
+                "region": {
+                  "startLine": 167,
+                  "startColumn": 41,
+                  "endLine": 167,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Inspection/Unity/UnityObjectInspector.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 37,
+                  "endLine": 37,
+                  "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/EditorWindowWrapper.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 17,
+                  "endLine": 33,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/EditorWindowWrapper.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 13,
+                  "endLine": 54,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/EditorWindowWrapper.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 13,
+                  "endLine": 60,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/EditorWindowWrapper.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 13,
+                  "endLine": 66,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/EditorWindowWrapper.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 13,
+                  "endLine": 72,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/EditorWindowWrapper.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 13,
+                  "endLine": 78,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/EditorWindowWrapper.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 13,
+                  "endLine": 84,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Interface/Icons/Icons.cs",
+                "region": {
+                  "startLine": 278,
+                  "startColumn": 71,
+                  "endLine": 278,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Inspection/Inspector.cs",
+                "region": {
+                  "startLine": 388,
+                  "startColumn": 60,
+                  "endLine": 388,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Context/GraphContext.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 41,
+                  "endLine": 63,
+                  "endColumn": 96
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0007",
+          "level": "note",
+          "message": "Unity objects should not use null coalescing.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Variables/VariablesPanel.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 29,
+                  "endLine": 40,
+                  "endColumn": 88
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0026",
+          "level": "note",
+          "message": "GetComponent allocates even if no component is found.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Variables/VariablesPanel.cs",
+                "region": {
+                  "startLine": 273,
+                  "startColumn": 41,
+                  "endLine": 273,
+                  "endColumn": 77
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0026",
+          "level": "note",
+          "message": "GetComponent allocates even if no component is found.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Variables/VariablesPanel.cs",
+                "region": {
+                  "startLine": 293,
+                  "startColumn": 33,
+                  "endLine": 293,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Variables/VariablesPanel.cs",
+                "region": {
+                  "startLine": 376,
+                  "startColumn": 21,
+                  "endLine": 376,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Variables/VariablesPanel.cs",
+                "region": {
+                  "startLine": 424,
+                  "startColumn": 21,
+                  "endLine": 424,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0024",
+          "level": "note",
+          "message": "Re-order operands for better performance.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Canvases/VisualScriptingCanvas.cs",
+                "region": {
+                  "startLine": 678,
+                  "startColumn": 25,
+                  "endLine": 678,
+                  "endColumn": 139
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0001",
+          "level": "note",
+          "message": "The Unity message 'Awake' is empty.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/WrappedEditorWindow.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 22,
+                  "endLine": 13,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0001",
+          "level": "note",
+          "message": "The Unity message 'OnDestroy' is empty.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Windows/WrappedEditorWindow.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 22,
+                  "endLine": 15,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UNT0008",
+          "level": "note",
+          "message": "Unity objects should not use null propagation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.visualscripting@4edfcc09512f/Editor/VisualScripting.Core/Inspection/GraphNestEditor.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 104,
+                  "endLine": 14,
+                  "endColumn": 170
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0168": {
+          "id": "CS0168",
+          "shortDescription": "La variable está declarada pero nunca se usa",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0168)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS0618": {
+          "id": "CS0618",
+          "shortDescription": "El tipo o el miembro están obsoletos",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS0649": {
+          "id": "CS0649",
+          "shortDescription": "El campo nunca se asigna y siempre tendrá su valor predeterminado",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0649)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "UNT0001": {
+          "id": "UNT0001",
+          "shortDescription": "Empty Unity message",
+          "fullDescription": "Unity messages are called by the runtime even if they're empty. Remove them to avoid unnecessary processing.",
+          "defaultLevel": "note",
+          "helpUri": "https://github.com/microsoft/Microsoft.Unity.Analyzers/blob/main/doc/UNT0001.md",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true
+          }
+        },
+        "UNT0007": {
+          "id": "UNT0007",
+          "shortDescription": "Null coalescing on Unity objects",
+          "fullDescription": "Unity overrides the null comparison operator for Unity objects, which is incompatible with null coalescing.",
+          "defaultLevel": "note",
+          "helpUri": "https://github.com/microsoft/Microsoft.Unity.Analyzers/blob/main/doc/UNT0007.md",
+          "properties": {
+            "category": "Correctness",
+            "isEnabledByDefault": true
+          }
+        },
+        "UNT0008": {
+          "id": "UNT0008",
+          "shortDescription": "Null propagation on Unity objects",
+          "fullDescription": "Unity overrides the null comparison operator for Unity objects, which is incompatible with null propagation.",
+          "defaultLevel": "note",
+          "helpUri": "https://github.com/microsoft/Microsoft.Unity.Analyzers/blob/main/doc/UNT0008.md",
+          "properties": {
+            "category": "Correctness",
+            "isEnabledByDefault": true
+          }
+        },
+        "UNT0024": {
+          "id": "UNT0024",
+          "shortDescription": "Give priority to scalar calculations over vector calculations",
+          "fullDescription": "Scalar calculations are faster than vector calculations.",
+          "defaultLevel": "note",
+          "helpUri": "https://github.com/microsoft/Microsoft.Unity.Analyzers/blob/main/doc/UNT0024.md",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true
+          }
+        },
+        "UNT0026": {
+          "id": "UNT0026",
+          "shortDescription": "GetComponent always allocates",
+          "fullDescription": "TryGetComponent will not allocate memory in case it fails.",
+          "defaultLevel": "note",
+          "helpUri": "https://github.com/microsoft/Microsoft.Unity.Analyzers/blob/main/doc/UNT0026.md",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true
+          }
+        }
+      }
+    }
+  ]
+}

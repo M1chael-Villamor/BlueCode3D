@@ -1,0 +1,3 @@
+﻿C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194\InputSystem\Runtime\Plugins\InputForUI\InputSystemProvider.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194\InputSystem\Runtime\Plugins\InputForUI\AssemblyInfo.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194\InputSystem\Runtime\Plugins\InputForUI\InputSystemForUI.asmdef

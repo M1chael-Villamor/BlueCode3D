@@ -1,0 +1,13 @@
+o
+dC:\Users\Acer\BlueCode3D\Temp\obj\Unity.AppUI.Editor\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8m
+dC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\IconBrowser.csutf-8w
+nC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\AppUISettingsProvider.csutf-8i
+`C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\Drawers.csutf-8n
+eC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\AssemblyInfo.csutf-8l
+cC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\Converters.csutf-8l
+cC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\AppUISetup.csutf-8u
+lC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\IconBrowserSettings.csutf-8‚
+yC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\AppUIAndroidProjectFilesModifier.csutf-8k
+bC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\Storybook.csutf-8q
+hC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\AppUIBuildSetup.csutf-8g
+^C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.dt.app-ui@9d0f103f520a\Editor\Utils.csutf-8

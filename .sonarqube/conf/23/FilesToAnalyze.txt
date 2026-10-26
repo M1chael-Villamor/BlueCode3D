@@ -1,0 +1,11 @@
+﻿C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\NavMeshLinkEditor.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\AssemblyInfo.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\NavMeshSurfaceEditor.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\NavMeshModifierVolumeEditor.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\NavigationOverlay.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\NavMeshModifierEditor.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\NavigationPreferences.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\NavMeshAssetManager.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\NavigationWindow.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\NavMeshComponentsGUIUtility.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Unity.AI.Navigation.Editor.asmdef

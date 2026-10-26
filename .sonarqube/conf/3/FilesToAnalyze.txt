@@ -1,0 +1,4 @@
+﻿C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.pipeline@62c08c808737\Runtime\Attributes\CliArgAttribute.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.pipeline@62c08c808737\Runtime\Attributes\CliCommandAttribute.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.pipeline@62c08c808737\Runtime\Attributes\CodeReloadAttributes.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.pipeline@62c08c808737\Runtime\Attributes\Unity.Pipeline.Attributes.asmdef

@@ -1,0 +1,1 @@
+FR:C:\Users\Acer\BlueCode3D\Unity.VisualScripting.Core.csprojòCSharp9

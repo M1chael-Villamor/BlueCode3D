@@ -1,0 +1,8 @@
+﻿C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\NavMeshSceneConverter.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\OffMeshLinkUpdaterUtility.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\NavigationConverterContainer.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\NavMeshUpdaterUtility.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\OffMeshLinkConverter.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\AssemblyInfo.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\NavigationUpdaterEditor.cs
+C:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Editor\Updater\Unity.AI.Navigation.Updater.asmdef

@@ -1,0 +1,9 @@
+p
+eC:\Users\Acer\BlueCode3D\Temp\obj\Unity.AI.Navigation\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8|
+sC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Runtime\NavMeshModifierVolume.csutf-8v
+mC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Runtime\NavMeshModifier.csutf-8o
+fC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Runtime\HelpUrls.csutf-8}
+tC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Runtime\NavMeshLink.deprecated.csutf-8u
+lC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Runtime\NavMeshSurface.csutf-8s
+jC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Runtime\AssemblyInfo.csutf-8r
+iC:\Users\Acer\BlueCode3D\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b\Runtime\NavMeshLink.csutf-8

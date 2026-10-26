@@ -1,0 +1,608 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "5.9.0.0",
+        "fileVersion": "5.9.0-1.26423.113 (e34a38d2ae1fc26406a317517196e55c68ff83ab)",
+        "semanticVersion": "5.9.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS0660",
+          "level": "warning",
+          "message": "'Rectangle' define el operador == o el operador != pero no invalida Object.Equals(object o)",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Core/Geometry/Rectangle.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 21,
+                  "endLine": 15,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0661",
+          "level": "warning",
+          "message": "'Rectangle' define el operador == o el operador != pero no invalida Object.GetHashCode()",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Core/Geometry/Rectangle.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 21,
+                  "endLine": 15,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0659",
+          "level": "warning",
+          "message": "'SegWithIndex' invalida Object.Equals(object o) pero no invalida Object.GetHashCode()",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/Nudging/SegWithIndex.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 20,
+                  "endLine": 7,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0660",
+          "level": "warning",
+          "message": "'Rectangle' define el operador == o el operador != pero no invalida Object.Equals(object o)",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Core/Geometry/Rectangle.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 21,
+                  "endLine": 15,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0661",
+          "level": "warning",
+          "message": "'Rectangle' define el operador == o el operador != pero no invalida Object.GetHashCode()",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Core/Geometry/Rectangle.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 21,
+                  "endLine": 15,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0659",
+          "level": "warning",
+          "message": "'SegWithIndex' invalida Object.Equals(object o) pero no invalida Object.GetHashCode()",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/Nudging/SegWithIndex.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 20,
+                  "endLine": 7,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "UAC1005",
+          "level": "warning",
+          "message": "Field 'parent' creates a direct self-reference in type 'Microsoft.Msagl.Core.DataStructures.RBNode<T>'. Refer to the Serialization rules analyzer reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Core/DataStructures/RBTree/RBNode.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 26,
+                  "endLine": 10,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UAC1005",
+          "level": "warning",
+          "message": "Field 'left' creates a direct self-reference in type 'Microsoft.Msagl.Core.DataStructures.RBNode<T>'. Refer to the Serialization rules analyzer reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Core/DataStructures/RBTree/RBNode.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 34,
+                  "endLine": 10,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "UAC1005",
+          "level": "warning",
+          "message": "Field 'right' creates a direct self-reference in type 'Microsoft.Msagl.Core.DataStructures.RBNode<T>'. Refer to the Serialization rules analyzer reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Core/DataStructures/RBTree/RBNode.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 40,
+                  "endLine": 10,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Visibility/VisibilityGraph.cs",
+                "region": {
+                  "startLine": 224,
+                  "startColumn": 9,
+                  "endLine": 224,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/SegmentIntersector.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 25,
+                  "endLine": 63,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/ObstaclePortEntrance.cs",
+                "region": {
+                  "startLine": 153,
+                  "startColumn": 17,
+                  "endLine": 153,
+                  "endColumn": 120
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/VisibilityGraphGenerator.cs",
+                "region": {
+                  "startLine": 589,
+                  "startColumn": 13,
+                  "endLine": 589,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/SparseVisibilityGraphGenerator.cs",
+                "region": {
+                  "startLine": 204,
+                  "startColumn": 13,
+                  "endLine": 204,
+                  "endColumn": 111
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/SparseVisibilityGraphGenerator.cs",
+                "region": {
+                  "startLine": 212,
+                  "startColumn": 13,
+                  "endLine": 212,
+                  "endColumn": 111
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/SparseVisibilityGraphGenerator.cs",
+                "region": {
+                  "startLine": 488,
+                  "startColumn": 13,
+                  "endLine": 488,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/PortManager.cs",
+                "region": {
+                  "startLine": 578,
+                  "startColumn": 17,
+                  "endLine": 578,
+                  "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/ScanSegmentVector.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 21,
+                  "endLine": 118,
+                  "endColumn": 88
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/ScanSegmentVector.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 17,
+                  "endLine": 134,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/ScanSegmentTree.cs",
+                "region": {
+                  "startLine": 159,
+                  "startColumn": 17,
+                  "endLine": 159,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Routing/Rectilinear/StaticGraphUtility.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 17,
+                  "endLine": 109,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Layout/LargeGraphLayout/LgInteractor.cs",
+                "region": {
+                  "startLine": 3171,
+                  "startColumn": 33,
+                  "endLine": 3171,
+                  "endColumn": 110
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Layout/Layered/Balancing.cs",
+                "region": {
+                  "startLine": 220,
+                  "startColumn": 13,
+                  "endLine": 220,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2701",
+          "level": "warning",
+          "message": "Remove or correct this assertion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Acer/BlueCode3D/Library/PackageCache/com.unity.ai.inference@9a123aee5df7/ThirdParty/Microsoft.Msagl/Layout/Layered/Routing.cs",
+                "region": {
+                  "startLine": 249,
+                  "startColumn": 18,
+                  "endLine": 249,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0659": {
+          "id": "CS0659",
+          "shortDescription": "El tipo reemplaza a Object.Equals(object o), pero no reemplaza a Object.GetHashCode()",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0659)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS0660": {
+          "id": "CS0660",
+          "shortDescription": "El tipo define operator == or operator !=, pero no reemplaza a override Object.Equals(object o)",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0660)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS0661": {
+          "id": "CS0661",
+          "shortDescription": "El tipo define operator == or operator !=, pero no reemplaza a Object.GetHashCode()",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0661)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S2701": {
+          "id": "S2701",
+          "shortDescription": "Literal boolean values should not be used in assertions",
+          "fullDescription": "Using literal boolean values in assertions can lead to less readable and less informative unit tests. When a test fails, it’s important to have a clear understanding of what the test was checking and why it failed. Most of the testing frameworks provide more explicit assertion methods that will provide a more helpful error message if the test fails.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "UAC1005": {
+          "id": "UAC1005",
+          "shortDescription": "Direct self-reference cycle in serialized class",
+          "defaultLevel": "warning",
+          "helpUri": "https://docs.unity3d.com/6000.6/Documentation/Manual/script-serialization-analyzer.html#uac1005",
+          "properties": {
+            "category": "Serialization",
+            "isEnabledByDefault": true
+          }
+        }
+      }
+    }
+  ]
+}
