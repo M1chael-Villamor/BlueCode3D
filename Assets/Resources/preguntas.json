@@ -1,0 +1,484 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+            "dominio": "BLS y RCP de alta calidad",
+            "enunciado": "¿Cuál es la primera prioridad al encontrar a un adulto aparentemente inconsciente?",
+            "opciones": [
+                "Administrar medicamentos.",
+                "Evaluar la respuesta y determinar si existe una situación que requiere activación de la respuesta de emergencia.",
+                "Realizar una radiografía.",
+                "Preparar inmediatamente un acceso venoso."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 2,
+            "dominio": "BLS y RCP de alta calidad",
+            "enunciado": "¿Cuál de las siguientes situaciones debe hacer sospechar un paro cardiorrespiratorio?",
+            "opciones": [
+                "Paciente consciente con dolor leve.",
+                "Paciente inconsciente sin signos vitales.",
+                "Paciente consciente con frecuencia cardíaca elevada.",
+                "Paciente con fiebre."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 3,
+            "dominio": "BLS y RCP de alta calidad",
+            "enunciado": "¿Cuál es el objetivo principal de realizar compresiones torácicas de alta calidad?",
+            "opciones": [
+                "Reducir la temperatura corporal.",
+                "Mantener una circulación sanguínea adecuada durante el paro.",
+                "Administrar medicamentos.",
+                "Reducir la frecuencia respiratoria."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 4,
+            "dominio": "BLS y RCP de alta calidad",
+            "enunciado": "¿Cuál de las siguientes características corresponde a una RCP de alta calidad?",
+            "opciones": [
+                "Comprensiones superficiales y frecuentes interrupciones.",
+                "Comprensiones adecuadas, minimización de interrupciones y correcta liberación del tórax.",
+                "Ventilaciones excesivas.",
+                "Suspender las compresiones durante todo el análisis del paciente."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 5,
+            "dominio": "BLS y RCP de alta calidad",
+            "enunciado": "¿Por qué deben minimizarse las interrupciones durante las compresiones?",
+            "opciones": [
+                "Porque dificultan el acceso venoso.",
+                "Porque disminuyen la calidad de la circulación generada por la RCP.",
+                "Porque aumentan la temperatura corporal.",
+                "Porque interfieren con la administración de oxígeno."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 6,
+            "dominio": "BLS y RCP de alta calidad",
+            "enunciado": "¿Qué debe hacerse después de una descarga cuando el algoritmo indica continuar la RCP?",
+            "opciones": [
+                "Permanecer observando al paciente durante varios minutos.",
+                "Reiniciar inmediatamente las compresiones según el algoritmo correspondiente.",
+                "verificar los signos vitales del paciente.",
+                "Administrar cualquier medicamento disponible."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 7,
+            "dominio": "BLS y RCP de alta calidad",
+            "enunciado": "¿Cuál es la finalidad principal de la desfibrilación durante un paro con ritmo desfibrilable?",
+            "opciones": [
+                "Reducir la presión arterial.",
+                "Intentar terminar una arritmia ventricular desfibrilable y permitir la recuperación de un ritmo organizado.",
+                "Sustituir permanentemente las compresiones.",
+                "Administrar oxígeno."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 8,
+            "dominio": "BLS y RCP de alta calidad",
+            "enunciado": "¿Cuál de las siguientes acciones representa una conducta insegura durante una reanimación?",
+            "opciones": [
+                "Minimizar las interrupciones.",
+                "Reevaluar al paciente.",
+                "Mantener la seguridad durante una descarga eléctrica.",
+                "Administrar una descarga mientras existe contacto con el paciente."
+            ],
+            "respuestaCorrecta": 3
+        },
+        {
+            "id": 9,
+            "dominio": "Farmacología",
+            "enunciado": "¿Cuál es el vasopresor recomendado de forma estándar durante el paro cardíaco adulto?",
+            "opciones": [
+                "Epinefrina.",
+                "Atropina.",
+                "Furosemida.",
+                "Adenosina."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 10,
+            "dominio": "Farmacología",
+            "enunciado": "¿Cuál es la dosis estándar de epinefrina recomendada por las guías AHA 2025 durante el paro cardíaco adulto?",
+            "opciones": [
+                "0,1 mg cada 10 minutos.",
+                "1 mg cada 3–5 minutos.",
+                "10 mg cada minuto.",
+                "5 mg cada 30 minutos."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 11,
+            "dominio": "Farmacología",
+            "enunciado": "En un ritmo no desfibrilable, ¿qué principio debe considerarse respecto a la administración de epinefrina?",
+            "opciones": [
+                "Debe retrasarse indefinidamente.",
+                "Debe administrarse tan pronto como sea factible dentro del algoritmo correspondiente.",
+                "Está contraindicada.",
+                "Solo se administra después de cinco descargas."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 12,
+            "dominio": "Farmacología",
+            "enunciado": "¿Qué debe verificarse antes de administrar un medicamento durante la reanimación?",
+            "opciones": [
+                "Únicamente el nombre del medicamento.",
+                "Medicamento, dosis, vía y momento de administración conforme al protocolo.",
+                "Únicamente el color de la ampolla.",
+                "Únicamente la marca comercial."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 13,
+            "dominio": "Farmacología",
+            "enunciado": "¿Cuál de las siguientes situaciones representa un error farmacológico crítico?",
+            "opciones": [
+                "Solicitar una segunda verificación.",
+                "Confirmar el medicamento antes de administrarlo.",
+                "Administrar deliberadamente una dosis manifiestamente peligrosa.",
+                "Registrar la administración."
+            ],
+            "respuestaCorrecta": 2
+        },
+        {
+            "id": 14,
+            "dominio": "Farmacología",
+            "enunciado": "¿Cuál de los siguientes medicamentos puede considerarse en determinados casos de fibrilación ventricular o taquicardia ventricular sin pulso refractaria a la desfibrilación?",
+            "opciones": [
+                "Amiodarona o lidocaína.",
+                "Paracetamol.",
+                "Furosemida.",
+                "Amoxicilina."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 15,
+            "dominio": "Farmacología",
+            "enunciado": "¿Cuál es el principio correcto respecto a medicamentos como calcio, bicarbonato o magnesio durante el paro cardíaco?",
+            "opciones": [
+                "Deben administrarse rutinariamente a todos los pacientes.",
+                "Su utilización rutinaria no está recomendada y puede estar indicada únicamente en circunstancias específicas.",
+                "Sustituyen siempre a la epinefrina.",
+                "Deben administrarse antes de iniciar la RCP."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 16,
+            "dominio": "Farmacología",
+            "enunciado": "¿Qué conducta es más segura ante una duda sobre la dosis de un medicamento?",
+            "opciones": [
+                "Administrar una dosis estimada.",
+                "Administrar una dosis superior para compensar.",
+                "Verificar el protocolo y la presentación disponible antes de administrarlo.",
+                "Administrar el medicamento sin comprobarlo."
+            ],
+            "respuestaCorrecta": 2
+        },
+        {
+            "id": 17,
+            "dominio": "Monitorización y reconocimiento de ritmos",
+            "enunciado": "¿Cuáles son los principales ritmos de paro cardíaco que deben diferenciarse durante el soporte vital avanzado?",
+            "opciones": [
+                "Solo fibrilación auricular.",
+                "Fibrilación ventricular, taquicardia ventricular sin pulso, asistolia y actividad eléctrica sin pulso.",
+                "Solo bradicardia.",
+                "Solo taquicardia supraventricular."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 18,
+            "dominio": "Monitorización y reconocimiento de ritmos",
+            "enunciado": "¿Cuáles son los ritmos considerados desfibrilables?",
+            "opciones": [
+                "Asistolia y AESP.",
+                "Fibrilación ventricular y taquicardia ventricular sin pulso.",
+                "Bradicardia y asistolia.",
+                "AESP y fibrilación auricular."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 19,
+            "dominio": "Monitorización y reconocimiento de ritmos",
+            "enunciado": "¿Qué intervención está indicada ante un ritmo desfibrilable dentro del algoritmo de paro?",
+            "opciones": [
+                "Desfibrilación según el protocolo correspondiente.",
+                "Esperar a que el ritmo se resuelva espontáneamente.",
+                "Administrar únicamente oxígeno.",
+                "Suspender la RCP."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 20,
+            "dominio": "Monitorización y reconocimiento de ritmos",
+            "enunciado": "¿Qué intervención es prioritaria ante un ritmo no desfibrilable?",
+            "opciones": [
+                "Desfibrilación inmediata.",
+                "RCP de alta calidad y tratamiento según el algoritmo correspondiente.",
+                "Cardioversión sincronizada.",
+                "Suspender la evaluación."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 21,
+            "dominio": "Monitorización y reconocimiento de ritmos",
+            "enunciado": "¿Cuál de los siguientes ritmos corresponde a actividad eléctrica sin pulso?",
+            "opciones": [
+                "Actividad eléctrica organizada sin circulación efectiva.",
+                "Fibrilación ventricular con pulso.",
+                "Taquicardia con pulso estable.",
+                "Ritmo sinusal normal."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 22,
+            "dominio": "Monitorización y reconocimiento de ritmos",
+            "enunciado": "¿Qué error representa una conducta crítica?",
+            "opciones": [
+                "Solicitar una segunda interpretación del ritmo.",
+                "Confundir inicialmente un ritmo y corregirlo inmediatamente.",
+                "Administrar una descarga a un ritmo no desfibrilable.",
+                "Reevaluar el ritmo."
+            ],
+            "respuestaCorrecta": 2
+        },
+        {
+            "id": 23,
+            "dominio": "Monitorización y reconocimiento de ritmos",
+            "enunciado": "¿Por qué es importante realizar evaluaciones periódicas durante el paro?",
+            "opciones": [
+                "Para determinar la evolución del ritmo y orientar las siguientes intervenciones.",
+                "Para retrasar las compresiones.",
+                "Para evitar utilizar el desfibrilador.",
+                "Para suspender el tratamiento."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 24,
+            "dominio": "Monitorización y reconocimiento de ritmos",
+            "enunciado": "¿Qué debe hacerse si el ritmo cambia durante el escenario?",
+            "opciones": [
+                "Continuar automáticamente con la misma intervención.",
+                "Reevaluar el ritmo y adaptar las intervenciones al nuevo estado clínico.",
+                "Ignorar el cambio.",
+                "Finalizar inmediatamente el escenario."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 25,
+            "dominio": "Vía aérea y ventilación",
+            "enunciado": "¿Cuál es uno de los objetivos principales del manejo de la vía aérea durante la reanimación?",
+            "opciones": [
+                "Garantizar una ventilación y oxigenación adecuadas según la situación clínica.",
+                "Detener las compresiones durante largos periodos.",
+                "Administrar medicamentos.",
+                "Reducir la frecuencia cardíaca."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 26,
+            "dominio": "Vía aérea y ventilación",
+            "enunciado": "¿Qué conducta debe evitarse durante la ventilación?",
+            "opciones": [
+                "Ventilación excesiva.",
+                "Evaluación continua.",
+                "Utilización apropiada de dispositivos.",
+                "Coordinación con el equipo."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 27,
+            "dominio": "Vía aérea y ventilación",
+            "enunciado": "¿Qué debe considerarse después de establecer una vía aérea avanzada?",
+            "opciones": [
+                "El manejo de la ventilación y la coordinación con las compresiones conforme al protocolo vigente.",
+                "Suspender definitivamente la RCP.",
+                "Retirar inmediatamente el dispositivo.",
+                "Ignorar la ventilación."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 28,
+            "dominio": "Vía aérea y ventilación",
+            "enunciado": "¿Cuál de las siguientes situaciones constituye un error grave?",
+            "opciones": [
+                "Verificar la posición del dispositivo.",
+                "Reconocer una complicación.",
+                "Continuar una intervención de vía aérea manifiestamente incorrecta pese a evidencia de deterioro.",
+                "Reevaluar al paciente."
+            ],
+            "respuestaCorrecta": 2
+        },
+        {
+            "id": 29,
+            "dominio": "Vía aérea y ventilación",
+            "enunciado": "¿Qué principios debe mantener durante el manejo avanzado de la vía aérea?",
+            "opciones": [
+                "La intervención debe realizarse manteniendo la prioridad de una RCP efectiva y evitando interrupciones innecesarias.",
+                "La vía aérea siempre tiene prioridad absoluta sobre todas las demás intervenciones.",
+                "Las compresiones deben suspenderse durante todo el procedimiento.",
+                "El manejo de la vía aérea sustituye al resto del algoritmo."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 30,
+            "dominio": "Vía aérea y ventilación",
+            "enunciado": "¿Cuál es una conducta adecuada cuando una intervención de vía aérea no está funcionando correctamente?",
+            "opciones": [
+                "Ignorar el problema.",
+                "Continuar indefinidamente.",
+                "Reconocer la situación, reevaluar y corregirla de acuerdo con el protocolo.",
+                "Suspender la reanimación."
+            ],
+            "respuestaCorrecta": 2
+        },
+        {
+            "id": 31,
+            "dominio": "Causas reversibles H y T",
+            "enunciado": "¿Cuál es la finalidad de identificar las causas reversibles durante un paro?",
+            "opciones": [
+                "Encontrar y tratar condiciones que puedan estar provocando o manteniendo el paro.",
+                "Sustituir la RCP.",
+                "Evitar la monitorización.",
+                "Suspender la evaluación."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 32,
+            "dominio": "Causas reversibles H y T",
+            "enunciado": "¿Cuál de los siguientes grupos corresponde al concepto tradicional de causas reversibles H y T?",
+            "opciones": [
+                "Hipoxia, hipovolemia, alteraciones de hidrogeniones, alteraciones del potasio, hipotermia; neumotórax a tensión, taponamiento cardíaco, toxinas, trombosis pulmonar y trombosis coronaria.",
+                "Fiebre, tos, cefalea, diarrea y vómito.",
+                "Hipertensión, obesidad y anemia únicamente.",
+                "Dolor, fiebre y ansiedad."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 33,
+            "dominio": "Causas reversibles H y T",
+            "enunciado": "¿Cuál debe ser la conducta ante una posible causa reversible identificada?",
+            "opciones": [
+                "Ignorarla hasta finalizar el escenario.",
+                "Integrarla en la evaluación y aplicar las intervenciones correspondientes cuando estén indicadas.",
+                "Suspender inmediatamente toda RCP.",
+                "Administrar cualquier medicamento disponible."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 34,
+            "dominio": "Causas reversibles H y T",
+            "enunciado": "¿Cuál de las siguientes situaciones puede representar una causa reversible de paro?",
+            "opciones": [
+                "Hipoxia.",
+                "Color de ojos.",
+                "Edad del paciente.",
+                "Estatura."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 35,
+            "dominio": "Causas reversibles H y T",
+            "enunciado": "¿Por qué es importante buscar causas reversibles mientras se realiza la reanimación?",
+            "opciones": [
+                "Porque tratar la causa puede ser esencial para conseguir y mantener el retorno de la circulación.",
+                "Porque permite evitar todas las intervenciones.",
+                "Porque elimina la necesidad de monitorización.",
+                "Porque sustituye el análisis del ritmo."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 36,
+            "dominio": "Causas reversibles H y T",
+            "enunciado": "¿Qué debe hacer el participante si el escenario proporciona evidencia clara de una causa reversible y existe una intervención indicada para tratarla?",
+            "opciones": [
+                "Considerarla dentro del razonamiento clínico y actuar conforme al protocolo aplicable.",
+                "Ignorarla.",
+                "Continuar indefinidamente con las mismas intervenciones.",
+                "Finalizar el escenario."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 37,
+            "dominio": "Seguridad, liderazgo y trabajo en equipo",
+            "enunciado": "¿Cuál es una característica de un liderazgo efectivo durante un Código Azul?",
+            "opciones": [
+                "Comunicación clara, asignación de funciones y toma de decisiones organizada.",
+                "Realizar todas las funciones personalmente.",
+                "Evitar la comunicación.",
+                "No aceptar información del equipo."
+            ],
+            "respuestaCorrecta": 0
+        },
+        {
+            "id": 38,
+            "dominio": "Seguridad, liderazgo y trabajo en equipo",
+            "enunciado": "¿Qué debe hacerse cuando un miembro del equipo identifica un riesgo de seguridad?",
+            "opciones": [
+                "Ignorarlo.",
+                "Considerar la información y actuar para mantener la seguridad.",
+                "Continuar sin modificar la conducta.",
+                "Finalizar automáticamente la reanimación."
+            ],
+            "respuestaCorrecta": 1
+        },
+        {
+            "id": 39,
+            "dominio": "Seguridad, liderazgo y trabajo en equipo",
+            "enunciado": "¿Cuál de las siguientes conductas representa una violación grave de seguridad?",
+            "opciones": [
+                "Solicitar confirmación de una dosis.",
+                "Verificar una descarga.",
+                "Administrar una descarga mientras existe contacto con el paciente.",
+                "Comunicar una decisión."
+            ],
+            "respuestaCorrecta": 2
+        },
+        {
+            "id": 40,
+            "dominio": "Seguridad, liderazgo y trabajo en equipo",
+            "enunciado": "¿Cuál es la prioridad general durante una emergencia cardiovascular?",
+            "opciones": [
+                "Obtener la mayor cantidad de puntos.",
+                "Completar todos los procedimientos independientemente de su indicación.",
+                "Proporcionar una atención segura, coordinada y basada en el algoritmo correspondiente.",
+                "Administrar el mayor número posible de medicamentos."
+            ],
+            "respuestaCorrecta": 2
+        }
+    ]
+}

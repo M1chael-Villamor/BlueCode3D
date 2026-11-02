@@ -59,23 +59,19 @@ public class AuthManager : MonoBehaviour
             return false;
         }
 
-        if (nombre.Length > 100 ||
-            codigo.Length > 50 ||
+        if (nombre.Length > 100 || codigo.Length > 50 ||
             semestre.Length > 20)
         {
-            Debug.LogError(
-                "Uno o varios campos superan el limite permitido.");
+            Debug.LogError("Uno o varios campos superan el limite permitido.");
             return false;
         }
 
         int numeroSemestre;
 
         if (!int.TryParse(semestre, out numeroSemestre) ||
-            numeroSemestre < 1 ||
-            numeroSemestre > 20)
+            numeroSemestre < 1 || numeroSemestre > 20)
         {
-            Debug.LogError(
-                "El semestre debe ser un numero entre 1 y 20.");
+            Debug.LogError("El semestre debe ser un numero entre 1 y 20.");
             return false;
         }
 
@@ -137,7 +133,6 @@ public class AuthManager : MonoBehaviour
         }
 
         Debug.Log("Registro exitoso para: " + nombre);
-
         return true;
     }
 
@@ -169,17 +164,14 @@ public class AuthManager : MonoBehaviour
                 }
                 catch (FormatException)
                 {
-                    Debug.LogError(
-                        "Datos de autenticacion invalidos.");
+                    Debug.LogError("Datos de autenticacion invalidos.");
                     return false;
                 }
 
-                string hashIngresado =
-                    GenerarHash(contrasena, salt);
+                string hashIngresado = GenerarHash(contrasena, salt);
 
                 if (!HashesIguales(
-                    hashIngresado,
-                    usuario.passwordHash))
+                    hashIngresado, usuario.passwordHash))
                 {
                     Debug.LogError("Contrasena incorrecta.");
                     return false;
@@ -204,7 +196,6 @@ public class AuthManager : MonoBehaviour
         }
 
         Debug.LogError("Usuario no encontrado.");
-
         return false;
     }
 
@@ -222,8 +213,7 @@ public class AuthManager : MonoBehaviour
             return;
 
         Debug.Log(
-            "Sesion cerrada: " +
-            UsuarioActual.codigoInstitucional);
+            "Sesion cerrada: " + UsuarioActual.codigoInstitucional);
 
         UsuarioActual = null;
     }
@@ -262,13 +252,6 @@ public class AuthManager : MonoBehaviour
         if (!File.Exists(RutaArchivo))
         {
             usuarios = new List<UserData>();
-
-            Debug.Log(
-                "No existe un archivo de usuarios. " +
-                "Se inicia una lista vacia.");
-
-            Debug.Log("Ruta del archivo: " + RutaArchivo);
-
             return;
         }
 
@@ -287,8 +270,6 @@ public class AuthManager : MonoBehaviour
 
             Debug.Log(
                 "Usuarios locales cargados: " + usuarios.Count);
-
-            Debug.Log("Ruta del archivo: " + RutaArchivo);
         }
         catch (Exception e)
         {
@@ -317,12 +298,6 @@ public class AuthManager : MonoBehaviour
 
             File.Move(temporal, RutaArchivo);
 
-            Debug.Log(
-                "Usuarios guardados correctamente: " +
-                usuarios.Count);
-
-            Debug.Log("Ruta del archivo: " + RutaArchivo);
-
             return true;
         }
         catch (Exception e)
@@ -332,47 +307,5 @@ public class AuthManager : MonoBehaviour
 
             return false;
         }
-    }
-
-    // Diagnostico: muestra los usuarios cargados en memoria.
-    // Se ejecuta desde el menu contextual del componente.
-    [ContextMenu("Depuracion/Mostrar usuarios registrados")]
-    private void MostrarUsuariosRegistrados()
-    {
-        Debug.Log("========== USUARIOS REGISTRADOS ==========");
-        Debug.Log("Archivo: " + RutaArchivo);
-        Debug.Log("Total en memoria: " + usuarios.Count);
-
-        if (usuarios.Count == 0)
-        {
-            Debug.LogWarning(
-                "No hay usuarios cargados en memoria.");
-
-            return;
-        }
-
-        for (int i = 0; i < usuarios.Count; i++)
-        {
-            UserData usuario = usuarios[i];
-
-            if (usuario == null)
-            {
-                Debug.LogWarning(
-                    "Usuario nulo en la posicion " + i);
-
-                continue;
-            }
-
-            Debug.Log(
-                $"Usuario #{i + 1}\n" +
-                $"Nombre: {usuario.nombreCompleto}\n" +
-                $"Codigo: '{usuario.codigoInstitucional}'\n" +
-                $"Semestre: {usuario.semestre}\n" +
-                $"Rol: {usuario.rol}\n" +
-                $"Acepto terminos: {usuario.aceptoTerminos}"
-            );
-        }
-
-        Debug.Log("========== FIN DEL LISTADO ==========");
     }
 }

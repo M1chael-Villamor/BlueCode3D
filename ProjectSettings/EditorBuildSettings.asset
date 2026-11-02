@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/RegistroScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/InicioDocente.unity
+    guid: accd3ca3aaffc924a9d2e4f5d2a9fe23
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 33a4feb81801a6441b48b0f0b792a645
+  - enabled: 1
+    path: Assets/Scenes/InicioAdmin.unity
+    guid: 52bfeb9d1d3fe844cb65f467bda40be1
+  - enabled: 1
+    path: Assets/Scenes/EvaluacionScene.unity
+    guid: 0f8ceaf1030e2864fb1a7334d27484d1
+  - enabled: 1
+    path: Assets/Scenes/InicioEstudiante.unity
+    guid: f479d1e091b4a724a9d35872d6c4e559
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
